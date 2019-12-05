@@ -1,1 +1,2 @@
-# nodemcu_rgbled
+# nodemcu esp8266 
+# RGB Led
